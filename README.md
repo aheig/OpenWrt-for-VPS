@@ -11,10 +11,10 @@
 
 Youtube Video [in Mandarin]: 📺https://youtu.be/iXhd-h4aVW8
 
-**Prerequisite**
- - **`Ubuntu`** or **`Debian`** (CentOS/Arch Based Not tested)
- - **`wget`** installed<br>
-   probably you don't need this, but if you do, you could run command below to install `wget`:<br>
+**先决条件**
+ - **`Ubuntu`** or **`Debian`** (基于 CentOS/Arch 未测试)
+ - **`wget`** 已安装<br>
+   可能你不需要这个，但如果你需要，你可以运行下面的命令来安装`wget`:<br>
     ```Bash
     apt update && apt install -y wget 
     ```
